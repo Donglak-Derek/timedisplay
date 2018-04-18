@@ -1,0 +1,33 @@
+h4{
+	border: 3px solid black;
+	text-align: center;
+	width: 200px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-bottom: 20px;
+}
+body{
+	display: block;
+	width: 700px;
+	margin-right: auto;
+	margin-left: auto;
+	/*border: 1px solid gray;*/
+}
+#wrapper{
+	display: block;
+	width: 500px;
+	margin: 30px auto;
+	border: 3px solid black;
+
+}
+#line{
+	
+	/*border: 1px solid gray;*/
+	font-size: 30px;
+	width: 200px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 20px;
+
+}
